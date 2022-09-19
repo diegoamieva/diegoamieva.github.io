@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="diegoamieva-github-io" />
+  <img src="./.github/app.gif" alt="diegoamieva.github.io" />
 
   &#xa0;
 
@@ -9,13 +9,13 @@
 <h1 align="center">Diegoamieva Github Io</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/diegoamieva/diegoamieva-github-io?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/diegoamieva/diegoamieva.github.io?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/diegoamieva/diegoamieva-github-io?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/diegoamieva/diegoamieva.github.io?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/diegoamieva/diegoamieva-github-io?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/diegoamieva/diegoamieva.github.io?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/diegoamieva/diegoamieva-github-io?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/diegoamieva/diegoamieva.github.io?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/diegoamieva/diegoamieva-github-io?color=56BEB8" /> -->
 
